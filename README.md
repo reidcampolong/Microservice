@@ -3,8 +3,10 @@
 
 The formal definition can be found [here](https://en.wikipedia.org/wiki/Microservices)
 
-In simplest terms, imagine breaking down a large application into a bunch of smaller applications which each have a specific task.
+In simplest terms, imagine breaking down a large application into a bunch of smaller applications, each of which have a specific task.
+* For example, I may build a microservice just to deal with authentication tokens and verifying them  
 
+Microservices generally communicate based on HTTP requests.<br>
 There can be a lot of benefits to using microservices, but I'll save that for a later discussion. For now, let's get into how to quickly build one!
 
 ## Technical Information
