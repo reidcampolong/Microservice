@@ -1,15 +1,15 @@
 # How to Build a Simple Microservice
 ### What is a Microservice?
 
-The formal definition can be found[here](https://en.wikipedia.org/wiki/Microservices)
+The formal definition can be found [here](https://en.wikipedia.org/wiki/Microservices)
 
 In simplest terms, imagine breaking down a large application into a bunch of smaller applications which each have a specific task.
 
 There can be a lot of benefits to using microservices, but I'll save that for a later discussion. For now, let's get into how to quickly build one!
 
 ## Technical Information
-Built using Maven and Java 8.
-Built using Java Spark framework[found here](http://sparkjava.com/)
+Built using Maven and Java 8.<br>
+Built using Java Spark framework [found here](http://sparkjava.com/)
 
 ## Let's Go!
 To launch the application, run the Application.java class.
