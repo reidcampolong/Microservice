@@ -30,6 +30,7 @@ Great. Now that we are sending a request to the */request* route on our microser
 
 Awesome. Now we are ready to send the data! Hit send and checkout the response!
 * The response we received is the inputField backwards. In RequestRoute.java, we pass the information into MyController and then return to the user their input backwards.
+![Postman image](docs/postman3.png)
 
 ## What's the Point of This?
 Yeah, reversing a string might not be your end goal. Luckily, microservices can be nearly anything you want. For example, try making an
