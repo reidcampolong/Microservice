@@ -16,13 +16,12 @@ Built using Java Spark framework [found here](http://sparkjava.com/)
 ## Let's Go!
 To launch the application, run the Application.java class.
 
-* A server is now started on localhost:4567.
+* A server is now started on *localhost:4567*.
 * As defined in our WebServer.java class, we have a */request* route that we can send information to.
 
 For this example, we will be using Postman to send HTTP requests to our microservice.
 
-Let's start by entering that URL we have above.
-* In this case, it would be localhost:4567/request
+Let's start by entering that URL we have above. In this case, it would be *localhost:4567/request*
 ![Postman image](docs/postman1.png)
 
 Great. Now that we are sending a request to the */request* route on our microservice, let's add in some query parameters.
